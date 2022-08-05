@@ -10,7 +10,7 @@ I performed exploratory data analysis to answer the business questions asked. Th
 2. What are the budget and revenue trends over the years?
 3. What are the profit and revenue trends over the years?
 4. What can you deduced from the number of movies released year by year?
-5. 
+ 
 5A. What is the average duration of movies based on popularity ?
 5B. What is the average budget of movies based on popularity?
 5C. What is the average revenue of movies based on popularity?
