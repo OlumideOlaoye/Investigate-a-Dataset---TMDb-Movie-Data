@@ -12,8 +12,11 @@ I performed exploratory data analysis to answer the business questions asked. Th
 4. What can you deduced from the number of movies released year by year?
  
 5A. What is the average duration of movies based on popularity ?
+
 5B. What is the average budget of movies based on popularity?
+
 5C. What is the average revenue of movies based on popularity?
+
 5D. What is the average profit of movies based on popularity?
 
 6. Which director directed most films based on popularity?
