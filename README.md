@@ -15,6 +15,7 @@ I performed exploratory data analysis to answer the business questions asked. Th
 5B. What is the average budget of movies based on popularity?
 5C. What is the average revenue of movies based on popularity?
 5D. What is the average profit of movies based on popularity?
+
 6. Which director directed most films based on popularity?
 7. Which cast has appeared the most based on popularity?
 8. Which genres are more successful based on popularity?
